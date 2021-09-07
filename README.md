@@ -1,4 +1,3 @@
-# Studi Independen Agate
-## Chapter 1 Game Programming Studi Independen Agate
-
-Memodifikasi agar kecepatan bola selalu sama
+# Chapter 1 Game Programming Studi Independen Agate
+Tugas : memodifikasi kecepatan bola agar selalu sama
+Arhammirza Ibrahim - G64190007
